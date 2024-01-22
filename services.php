@@ -20,7 +20,7 @@
    <!-- Banner -->
 
    <!-- Services -->
-   <section class="services wow animate__fadeIn" data-wow-delay="0.2s">
+   <section class="services wow animate__fadeIn" data-wow-delay="0.2s" style="padding-bottom: 10px;">
       <div class="container">
          <div class="row">
             <div class="col-lg-3"></div>
@@ -44,7 +44,7 @@
             <div class="col-xl-4 col-lg-6 col-md-6  mb-5">
                <div class="pt-service-box pt-service-box-1">
                   <div class="pt-service-banner">
-                     <img class="img-fluid" src="images/blog/blog-6.jpg" alt="servicebox">
+                     <img class="img-fluid" src="images/blog/blog-1.jpg" alt="servicebox">
                      <div class="pt-service-media">
                         <i class=" flaticon-008-factory"></i>
                      </div>
@@ -70,7 +70,7 @@
             <div class="col-xl-4 col-lg-6 col-md-6 mb-5">
                <div class="pt-service-box pt-service-box-1">
                   <div class="pt-service-banner">
-                     <img class="img-fluid" src="images/blog/blog-3.jpg" alt="servicebox">
+                     <img class="img-fluid" src="images/blog/blog-2.jpg" alt="servicebox">
                      <div class="pt-service-media">
                         <i class=" flaticon-050-robot-arm"></i>
                      </div>
@@ -96,7 +96,7 @@
             <div class="col-xl-4 col-lg-12 col-md-6 mb-5">
                <div class="pt-service-box pt-service-box-1">
                   <div class="pt-service-banner">
-                     <img class="img-fluid" src="images/blog/blog-2.jpg" alt="servicebox">
+                     <img class="img-fluid" src="images/blog/blog-3.jpg" alt="servicebox">
                      <div class="pt-service-media">
                         <i class=" flaticon-023-pin"></i>
                      </div>
@@ -122,7 +122,7 @@
             <div class="col-xl-4 col-lg-6 col-md-6 mb-4 mb-lg-0">
                <div class="pt-service-box pt-service-box-1">
                   <div class="pt-service-banner">
-                     <img class="img-fluid" src="images/blog/blog-7.jpg" alt="servicebox">
+                     <img class="img-fluid" src="images/blog/blog-4.jpg" alt="servicebox">
                      <div class="pt-service-media">
                         <i class=" flaticon-011-mechanics"></i>
                      </div>
@@ -148,7 +148,7 @@
             <div class="col-xl-4 col-lg-6 col-md-6 mb-4 mb-md-0">
                <div class="pt-service-box pt-service-box-1">
                   <div class="pt-service-banner">
-                     <img class="img-fluid" src="images/blog/blog-1.jpg" alt="servicebox">
+                     <img class="img-fluid" src="images/blog/blog-5.jpg" alt="servicebox">
                      <div class="pt-service-media">
                         <i class=" flaticon-027-optimization"></i>
                      </div>
@@ -174,7 +174,7 @@
             <div class="col-xl-4 col-lg-12 col-md-6 mt-xl-0 mt-lg-5">
                <div class="pt-service-box pt-service-box-1">
                   <div class="pt-service-banner">
-                     <img class="img-fluid" src="images/blog/blog-4.jpg" alt="servicebox">
+                     <img class="img-fluid" src="images/blog/blog-6.jpg" alt="servicebox">
                      <div class="pt-service-media">
                         <i class=" flaticon-022-repair-tools"></i>
                      </div>
@@ -272,9 +272,6 @@
                </div>
             </div>
          </div>
-      </div>
-      <div class="process-img d-md-inline-block">
-         <img class="img-fluid wow animate__fadeInRight" src="images/about/unnamed-1.png" alt="demo-img">
       </div>
    </section>
    <!-- Process Step -->

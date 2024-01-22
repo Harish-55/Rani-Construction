@@ -142,9 +142,9 @@
       <rs-module id="rev_slider_4_1" style="display:none;" data-version="6.2.2">
          <rs-slides>
 
-            <rs-slide data-key="rs-11" data-title="Slide" data-thumb="rev-slider/assets/61-50x100.jpg"
+            <rs-slide data-key="rs-11" data-title="Slide" data-thumb="rev-slider/assets/1.jpg"
                data-anim="ei:d;eo:d;s:600;r:0;t:fade;sl:0;">
-               <img src="rev-slider/assets/61.jpg" alt="architek-image" title="61" width="1920" height="1080"
+               <img src="rev-slider/assets/1.jpg" alt="architek-image" title="61" width="1920" height="1080"
                   class="rev-slidebg" data-no-retina="">
                <!--
                      -->
@@ -200,67 +200,9 @@
                      -->
             </rs-slide>
 
-            <rs-slide data-key="rs-10" data-title="Slide" data-thumb="rev-slider/assets/61-50x100.jpg"
+            <rs-slide data-key="rs-10" data-title="Slide" data-thumb="rev-slider/assets/2.jpg"
                data-anim="ei:d;eo:d;s:600;r:0;t:fade;sl:0;">
-               <img src="rev-slider/assets/61.jpg" alt="architek-image" title="61" width="1920" height="1080"
-                  class="rev-slidebg" data-no-retina="">
-               <!--
-                     -->
-               <rs-layer id="slider-4-slide-10-layer-2" data-type="text" data-rsp_ch="on"
-                  data-xy="xo:50px,40px,30px,15px;y:m;yo:-17px,-13px,0,3px;"
-                  data-text="w:normal;s:92,72,56,42;l:92,72,60,48;fw:600;" data-frame_0="x:50,39,29,17;"
-                  data-frame_1="st:900;sp:1000;" data-frame_999="o:0;st:w;"
-                  style="z-index:10;font-family:Jost, sans-serif;text-transform:capitalize;">Provide Effective<br>
-                  Solutions.
-               </rs-layer>
-               <!--
-                     -->
-               <rs-layer id="slider-4-slide-10-layer-3" data-type="text" data-rsp_ch="on"
-                  data-xy="xo:50px,40px,30px,15px;y:m;yo:118px,102px,28px,37px;"
-                  data-text="w:normal;s:16,16,16,11;l:32,32,32,22;" data-dim="minh:0px,none,none,none;"
-                  data-vbility="t,t,f,f" data-frame_0="x:50,39,29,17;" data-frame_1="st:1200;sp:1000;"
-                  data-frame_999="o:0;st:w;" style="z-index:11;font-family:Jost, sans-serif;">It is a long established
-                  fact that a reader will be distracted by the readable content of a<br>page when looking at its layout.
-               </rs-layer>
-               <!--
-                     -->
-               <rs-layer id="slider-4-slide-10-layer-4" class="rev-btn" data-type="button" data-rsp_ch="on"
-                  data-xy="xo:50px,40px,30px,15px;y:m;yo:214px,188px,105px,84px;"
-                  data-text="w:normal;s:16,12,16,18;l:32,25,32,30;" data-dim="minh:0px,none,none,none;"
-                  data-padding="t:12,9,7,4;r:32,25,19,12;b:12,9,7,4;l:32,25,19,12;" data-frame_0="x:50,39,29,17;"
-                  data-frame_1="st:1500;sp:1000;" data-frame_999="o:0;st:w;"
-                  data-frame_hover="c:#ff631b;bgc:#fff;bor:0px,0px,0px,0px;sp:200;e:power1.inOut;"
-                  style="z-index:9;background-color:#ff5e14;font-family:Jost, sans-serif;">Explore More
-               </rs-layer>
-               <!--
-                     -->
-               <rs-layer id="slider-4-slide-10-layer-5" data-type="text" data-rsp_ch="on"
-                  data-xy="xo:50px,40px,30px,15px;y:m;yo:-127px,-110px,-80px,-64px;"
-                  data-text="w:normal;s:16,16,16,18;l:30,32,26,24;fw:600;" data-padding="l:10,8,6,4;"
-                  data-border="bos:solid;boc:#ff631b;bow:0,0,0,2px;" data-frame_0="x:50,39,29,17;"
-                  data-frame_1="st:600;sp:1000;" data-frame_999="o:0;st:w;"
-                  style="z-index:12;font-family:Jost, sans-serif;text-transform:capitalize;">Great Experience in
-                  Bulding.
-               </rs-layer>
-               <!--
-                     -->
-               <rs-layer id="slider-4-slide-10-layer-6" class="rev-btn" data-type="button" data-rsp_ch="on"
-                  data-xy="xo:240px,190px,193px,164px;y:m;yo:214px,188px,105px,84px;"
-                  data-text="w:normal;s:16,12,16,18;l:32,25,32,30;" data-dim="minh:0px,none,none,none;"
-                  data-padding="t:10,8,6,4;r:32,25,19,12;b:10,8,6,4;l:32,25,19,12;"
-                  data-border="bos:solid;boc:#ffffff;bow:2px,2px,2px,2px;" data-frame_0="x:50,39,29,17;"
-                  data-frame_1="st:1800;sp:1000;" data-frame_999="o:0;st:w;"
-                  data-frame_hover="c:#ff631b;bgc:rgba(255,94,20,0);boc:#ff631b;bor:0px,0px,0px,0px;bos:solid;bow:2px,2px,2px,2px;sp:200;e:power1.inOut;"
-                  style="z-index:8;background-color:rgba(255,255,255,0);font-family:Jost, sans-serif;">Get In
-                  Touch<br>
-               </rs-layer>
-               <!--
-                     -->
-            </rs-slide>
-
-            <rs-slide data-key="rs-12" data-title="Slide" data-thumb="rev-slider/assets/61-50x100.jpg"
-               data-anim="ei:d;eo:d;s:600;r:0;t:fade;sl:0;">
-               <img src="rev-slider/assets/61.jpg" alt="architek-image" title="61" width="1920" height="1080"
+               <img src="rev-slider/assets/2.jpg" alt="architek-image" title="61" width="1920" height="1080"
                   class="rev-slidebg" data-no-retina="">
                <!--
                      -->
@@ -360,7 +302,7 @@
          </div>
       </div>
       <div class="backgrount-image-right d-md-inline-block wow animate__fadeInRight">
-         <img class="img-fluid" src="images/bg/bg-01.jpg" alt="bg-img">
+         <img class="img-fluid" src="images/bg/bg-01.png" alt="bg-img">
       </div>
    </section>
    <!-- About us-->
