@@ -9,8 +9,8 @@
                         <div class="row">
                            <div class="col-sm-12">
                               <img class="img-fluid pt-footer-logo" src="images/logo-white.png" alt="logo-white">
-                              <p class="text-white">Lorem Ipsum is simply dummied text of the printing and typesetting
-                                 industry.
+                              <p class="text-white">
+                              Crafting excellence in construction and engineering. Transforming visions into reality with precision, innovation, and unwavering commitment to quality.
                               </p>
                               <div class="pt-footer-social">
                                  <ul>

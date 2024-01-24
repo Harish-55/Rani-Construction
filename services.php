@@ -30,10 +30,9 @@
                </div>
                <div class="pt-section-title-box">
                   <span class="pt-section-sub-title">What We Offer</span>
-                  <h2 class="pt-section-title">Architek Best Services</h2>
-                  <p class="pt-section-description">There are many variations of passages of Lorem Ipsum
-                     available,but
-                     the majority have suffered alteration in some form believable.
+                  <h2 class="pt-section-title">Unleashing Construction & Engineering Ingenuity</h2>
+                  <p class="pt-section-description">
+                  Empowering construction sectors with cutting-edge solutions and high-performance services for unparalleled industry excellence and success.
                   </p>
                </div>
             </div>
@@ -51,18 +50,9 @@
                   </div>
                   <div class="pt-service-box-info">
                      <h4 class="pt-service-title">3D Elevation</h4>
-                     <p class="pt-service-description">Lorem Ipsum is simply dummy text of the printing Ipsum has
-                        been
-                        the standard .
+                     <p class="pt-service-description">
+                     Elevate your vision with stunning 3D designs, merging aesthetics and functionality seamlessly.
                      </p>
-                     <a class="pt-button pt-btn-link" href="services.php">
-                        <div class="pt-button-block ">
-                           <span class="pt-button-line-left"></span>
-                           <span class="pt-button-text">Read more</span>
-                           <span class="pt-button-line-right"></span>
-                           <i class="ion ion-android-arrow-dropright pt-btn-icon"></i>
-                        </div>
-                     </a>
                   </div>
                </div>
             </div>
@@ -77,18 +67,9 @@
                   </div>
                   <div class="pt-service-box-info">
                      <h4 class="pt-service-title">Interior</h4>
-                     <p class="pt-service-description">Lorem Ipsum is simply dummy text of the printing Ipsum has
-                        been
-                        the standard .
+                     <p class="pt-service-description">
+                     Crafting interiors that inspire, balancing style and comfort for spaces that resonate excellence.
                      </p>
-                     <a class="pt-button pt-btn-link" href="services.php">
-                        <div class="pt-button-block ">
-                           <span class="pt-button-line-left"></span>
-                           <span class="pt-button-text">Read more</span>
-                           <span class="pt-button-line-right"></span>
-                           <i class="ion ion-android-arrow-dropright pt-btn-icon"></i>
-                        </div>
-                     </a>
                   </div>
                </div>
             </div>
@@ -103,18 +84,17 @@
                   </div>
                   <div class="pt-service-box-info">
                      <h4 class="pt-service-title">Estimate</h4>
-                     <p class="pt-service-description">Lorem Ipsum is simply dummy text of the printing Ipsum has
-                        been
-                        the standard .
+                     <p class="pt-service-description">
+                     Accurate project insights, ensuring budgetary precision and efficient resource allocation.
                      </p>
-                     <a class="pt-button pt-btn-link" href="services.php">
+                     <!-- <a class="pt-button pt-btn-link" href="services.php">
                         <div class="pt-button-block ">
                            <span class="pt-button-line-left"></span>
                            <span class="pt-button-text">Read more</span>
                            <span class="pt-button-line-right"></span>
                            <i class="ion ion-android-arrow-dropright pt-btn-icon"></i>
                         </div>
-                     </a>
+                     </a> -->
                   </div>
                </div>
             </div>
@@ -129,18 +109,9 @@
                   </div>
                   <div class="pt-service-box-info">
                      <h4 class="pt-service-title">Exterior</h4>
-                     <p class="pt-service-description">Lorem Ipsum is simply dummy text of the printing Ipsum has
-                        been
-                        the standard .
+                     <p class="pt-service-description">
+                     Crafting captivating exteriors, enhancing curb appeal through innovative design solutions.
                      </p>
-                     <a class="pt-button pt-btn-link" href="services.php">
-                        <div class="pt-button-block ">
-                           <span class="pt-button-line-left"></span>
-                           <span class="pt-button-text">Read more</span>
-                           <span class="pt-button-line-right"></span>
-                           <i class="ion ion-android-arrow-dropright pt-btn-icon"></i>
-                        </div>
-                     </a>
                   </div>
                </div>
             </div>
@@ -155,18 +126,9 @@
                   </div>
                   <div class="pt-service-box-info">
                      <h4 class="pt-service-title">2D Plan</h4>
-                     <p class="pt-service-description">Lorem Ipsum is simply dummy text of the printing Ipsum has
-                        been
-                        the standard .
+                     <p class="pt-service-description">
+                     Detailed blueprint precision, providing comprehensive and meticulous 2D plans for construction projects.
                      </p>
-                     <a class="pt-button pt-btn-link" href="services.php">
-                        <div class="pt-button-block ">
-                           <span class="pt-button-line-left"></span>
-                           <span class="pt-button-text">Read more</span>
-                           <span class="pt-button-line-right"></span>
-                           <i class="ion ion-android-arrow-dropright pt-btn-icon"></i>
-                        </div>
-                     </a>
                   </div>
                </div>
             </div>
@@ -181,18 +143,9 @@
                   </div>
                   <div class="pt-service-box-info">
                      <h4 class="pt-service-title">Approval</h4>
-                     <p class="pt-service-description">Lorem Ipsum is simply dummy text of the printing Ipsum has
-                        been
-                        the standard .
+                     <p class="pt-service-description">
+                     Navigate approvals effortlessly, ensuring your projects move forward with speed and precision.
                      </p>
-                     <a class="pt-button pt-btn-link" href="services.php">
-                        <div class="pt-button-block ">
-                           <span class="pt-button-line-left"></span>
-                           <span class="pt-button-text">Read more</span>
-                           <span class="pt-button-line-right"></span>
-                           <i class="ion ion-android-arrow-dropright pt-btn-icon"></i>
-                        </div>
-                     </a>
                   </div>
                </div>
             </div>
@@ -213,11 +166,7 @@
                </div>
                <div class="pt-section-title-box">
                   <span class="pt-section-sub-title">Our Work Process</span>
-                  <h2 class="pt-section-title">How Does Architek Works</h2>
-                  <p class="pt-section-description">There are many variations of passages of Lorem Ipsum
-                     available,but
-                     the majority have suffered alteration in some form believable.
-                  </p>
+                  <h2 class="pt-section-title">How Does Rani Construction works</h2>
                </div>
             </div>
             <div class="col-xl-3">
@@ -232,10 +181,9 @@
                      <span class="pt-process-number">1</span>
                   </div>
                   <div class="pt-process-info">
-                     <h3 class="pt-process-title">Project Planing</h3>
-                     <p class="pt-process-description">Lorem Ipsum is simply dummy text of the printing and
-                        typesetting
-                        industry.
+                     <h3 class="pt-process-title">Project Planning</h3>
+                     <p class="pt-process-description">
+                     Strategic Blueprints, Ensuring Smooth Project Execution
                      </p>
                   </div>
                </div>
@@ -249,9 +197,8 @@
                   </div>
                   <div class="pt-process-info">
                      <h3 class="pt-process-title">General Contract</h3>
-                     <p class="pt-process-description">Lorem Ipsum is simply dummy text of the printing and
-                        typesetting
-                        industry.
+                     <p class="pt-process-description">
+                     Comprehensive Management, Excelling in Every Aspect.
                      </p>
                   </div>
                </div>
@@ -264,9 +211,8 @@
                   </div>
                   <div class="pt-process-info">
                      <h3 class="pt-process-title">Interior Design</h3>
-                     <p class="pt-process-description">Lorem Ipsum is simply dummy text of the printing and
-                        typesetting
-                        industry.
+                     <p class="pt-process-description">
+                     Artful Spaces, Tailored for Ultimate<br> Comfort.
                      </p>
                   </div>
                </div>

@@ -32,49 +32,36 @@
             <div class="col-xl-6 col-12 mt-4">
                <div class="pt-section-title-box text-left">
                   <span class="pt-section-sub-title">About Us</span>
-                  <h2 class="pt-section-title">We Building Everything Best That You Needed</h2>
-                  <p class="pt-section-description">There are many variations of passages of Lorem Ipsum available, but
-                     the majority have suffered alteration in some form, by injected words which If you are going to use
-                     a passage of Lorem Ipsum.
+                  <h2 class="pt-section-title">Elevate construct transform. Rani's Building Legacy</h2>
+                  <p class="pt-section-description">
+                     At Rani Construction, we blend tradition with modern expertise. Our commitment to quality craftsmanship and client trust defines us. Transforming ideas into structures, we build the future with enduring precision.
                   </p>
                   <ul class="icon-list-items mt-4 mt-lg-5">
                      <li class="icon-list-item">
                         <span class="icon-list-icon">
                            <i aria-hidden="true" class="fas fa-check"></i>
                         </span>
-                        <span class="icon-list-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
+                        <span class="icon-list-text">Innovative solutions for exceptional construction and project success.</span>
                      </li>
                      <li class="icon-list-item">
                         <span class="icon-list-icon">
                            <i aria-hidden="true" class="fas fa-check"></i>
                         </span>
-                        <span class="icon-list-text">Integer egestas metus blandit sagittis vestibulum.</span>
+                        <span class="icon-list-text">Commitment to excellence, meticulous detail, ensuring top-tier craftsmanship.</span>
                      </li>
                      <li class="icon-list-item">
                         <span class="icon-list-icon">
                            <i aria-hidden="true" class="fas fa-check"></i>
                         </span>
-                        <span class="icon-list-text">Nunc iaculis libero in ipsum molestie fermentum, a molestie nulla
-                           aliquet.</span>
+                        <span class="icon-list-text">Guiding projects from concept to completion with a comprehensive approach.</span>
                      </li>
                      <li class="icon-list-item">
                         <span class="icon-list-icon">
                            <i aria-hidden="true" class="fas fa-check"></i>
                         </span>
-                        <span class="icon-list-text">Integer eget massa malesuada, semper metus in, mattis diam.</span>
+                        <span class="icon-list-text">Fostering relationships, working closely to transform visions into successful projects.</span>
                      </li>
                   </ul>
-               </div>
-               <div class="row">
-                  <div class="col-4 col-md-3">
-                     <img class="img-fluid sign-img" src="images/sign.png" alt="demo-img">
-                  </div>
-                  <div class="col-8 col-md-9">
-                     <div class="image-box-content">
-                        <h4 class="elementor-image-box-title">Martin Dummy</h4>
-                        <p class="elementor-image-box-description">Chairman and founder</p>
-                     </div>
-                  </div>
                </div>
             </div>
          </div>
@@ -94,11 +81,10 @@
             <div class="col-lg-2"></div>
             <div class="col-lg-8 text-center">
                <div class="pt-section-title-box mb-5">
-                  <span class="pt-section-sub-title">Working With Us</span>
-                  <h2 class="pt-section-title text-white">Your New Project Watch our video</h2>
-                  <p class="pt-section-description text-white">There are many variations of passages of Lorem Ipsum
-                     available, but the majority have suffered alteration in some form, by injected humour, or
-                     randomised words which don’t look even slightly believable.
+                  <span class="pt-section-sub-title">Visual Portfolio</span>
+                  <h2 class="pt-section-title text-white">Watch Our Construction Projects</h2>
+                  <p class="pt-section-description text-white">
+                  Dive into our video portfolio showcasing the transformation of projects from concept to reality, highlighting craftsmanship, innovation, and excellence.
                   </p>
                </div>
                <div class="pt-popup-video-block">
@@ -118,7 +104,7 @@
    </section>
    <!-- Video Section -->
    <br>
-
+   
    <!-- About us -->
    <section class="about pt-bg-dark">
       <div class="pt-bg-overley pt-opacity1" style="background-image: url('images/bg/01.png');">
@@ -129,8 +115,8 @@
                <div class="pt-section-title-box text-left">
                   <span class="pt-section-sub-title text-white border-white">Working With Excellent</span>
                   <h2 class="pt-section-title text-white">Construction & Engineering Real Solutions.</h2>
-                  <p class="pt-section-description text-white">It is a long established fact that a reader will be
-                     distracted by the readable content of a page when looking at its layout.
+                  <p class="pt-section-description text-white">
+                     Embark on a journey with us, where excellence meets innovation in crafting real solutions for construction and engineering challenges.
                   </p>
                </div>
                <ul class="icon-list-items text-white">
@@ -138,28 +124,25 @@
                      <span class="icon-list-icon">
                         <i aria-hidden="true" class="fas fa-check"></i>
                      </span>
-                     <span class="icon-list-text">Lorem ipsum dolor sit amet,consectetur adipiscing elit.</span>
+                     <span class="icon-list-text">Redefining with creative construction and engineering efficiency.</span>
                   </li>
                   <li class="icon-list-item">
                      <span class="icon-list-icon">
                         <i aria-hidden="true" class="fas fa-check"></i>
                      </span>
-                     <span class="icon-list-text">Integer egestas metus blandit sagittis vestibulum.</span>
+                     <span class="icon-list-text">Quality, Precision, and Top-Tier Construction in Every Project.</span>
                   </li>
                   <li class="icon-list-item">
                      <span class="icon-list-icon">
                         <i aria-hidden="true" class="fas fa-check"></i>
                      </span>
-                     <span class="icon-list-text">Nunc iaculis libero in ipsum molestie fermentum,a molestie
-                        nulla
-                        aliquet.</span>
+                     <span class="icon-list-text">Exceeding Expectations Through Successful Partnerships and Project Success.</span>
                   </li>
                   <li class="icon-list-item">
                      <span class="icon-list-icon">
                         <i aria-hidden="true" class="fas fa-check"></i>
                      </span>
-                     <span class="icon-list-text">Integer eget massa malesuada,semper metus in,mattis
-                        diam.</span>
+                     <span class="icon-list-text">Tangible Outcomes Through Effective Construction and Engineering Solutions.</span>
                   </li>
                </ul>
             </div>
@@ -198,10 +181,10 @@
                      <div class="item">
                         <div class="pt-testimonial-box pt-testimonial-box-1">
                            <div class="pt-testimonial-img">
-                              <img src="images/testimonial/01.jpg" alt="testimonial-image">
+                              <img src="images/testimonial/01.png" alt="testimonial-image">
                               <div class="pt-testimonial-meta">
-                                 <h5>Willie Rchitek</h5>
-                                 <p>Manager Peaceful</p>
+                                 <h5>Happy Customer</h5>
+                                 <p>From Google</p>
                               </div>
                            </div>
                            <div class="pt-testimonial-star">
@@ -214,21 +197,21 @@
                               <div class="pt-quote">
                                  <i class="fa fa-quote-right" aria-hidden="true"></i>
                               </div>
-                              <p>Contrary to popular belief,Lorem Ipsum is not simply random text. It has
-                                 roots in a
-                                 piece
-                                 of classical Latin literature from 45 BC,making it over 2000 years old.
+                              <p>
+                                 Rani Construction is the backbone of our business expansion in Chennai. Impeccable service, true to Tamil Nadu's spirit.
+                                 <br><br>
                               </p>
+                              
                            </div>
                         </div>
                      </div>
                      <div class="item">
                         <div class="pt-testimonial-box pt-testimonial-box-1">
                            <div class="pt-testimonial-img">
-                              <img src="images/testimonial/02.jpg" alt="testimonial-image">
+                              <img src="images/testimonial/01.png" alt="testimonial-image">
                               <div class="pt-testimonial-meta">
-                                 <h5>Maggie Architek</h5>
-                                 <p>Employee</p>
+                                 <h5>Happy Customer</h5>
+                                 <p>From Google</p>
                               </div>
                            </div>
                            <div class="pt-testimonial-star">
@@ -242,10 +225,8 @@
                               <div class="pt-quote">
                                  <i class="fa fa-quote-right" aria-hidden="true"></i>
                               </div>
-                              <p>Contrary to popular belief,Lorem Ipsum is not simply random text. It has
-                                 roots in a
-                                 piece
-                                 of classical Latin literature from 45 BC,making it over 2000 years old.
+                              <p>
+                                 Choosing Rani Construction for our home project was a wise decision. Their craftsmanship aligns perfectly with Tamil Nadu's architectural charm.
                               </p>
                            </div>
                         </div>
@@ -253,10 +234,10 @@
                      <div class="item2">
                         <div class="pt-testimonial-box pt-testimonial-box-1">
                            <div class="pt-testimonial-img">
-                              <img src="images/testimonial/03.jpg" alt="testimonial-image">
+                              <img src="images/testimonial/01.png" alt="testimonial-image">
                               <div class="pt-testimonial-meta">
-                                 <h5>Cindy Wilkins</h5>
-                                 <p>MD Peaceful</p>
+                                 <h5>Happy Customer</h5>
+                                 <p>From Google</p>
                               </div>
                            </div>
                            <div class="pt-testimonial-star">
@@ -269,10 +250,9 @@
                               <div class="pt-quote">
                                  <i class="fa fa-quote-right" aria-hidden="true"></i>
                               </div>
-                              <p>Contrary to popular belief,Lorem Ipsum is not simply random text. It has
-                                 roots in a
-                                 piece
-                                 of classical Latin literature from 45 BC,making it over 2000 years old.
+                              <p>
+                              Rani Construction adds value to local development. Their expertise aligns seamlessly with the rich heritage of Madurai.
+                              <br><br>
                               </p>
                            </div>
                         </div>
@@ -280,10 +260,10 @@
                      <div class="item3">
                         <div class="pt-testimonial-box pt-testimonial-box-1">
                            <div class="pt-testimonial-img">
-                              <img src="images/testimonial/04.jpg" alt="testimonial-image">
+                              <img src="images/testimonial/01.png" alt="testimonial-image">
                               <div class="pt-testimonial-meta">
-                                 <h5>Emily Blunts</h5>
-                                 <p>CEO Peaceful</p>
+                                 <h5>Happy Customer</h5>
+                                 <p>From Google</p>
                               </div>
                            </div>
                            <div class="pt-testimonial-star">
@@ -296,10 +276,8 @@
                               <div class="pt-quote">
                                  <i class="fa fa-quote-right" aria-hidden="true"></i>
                               </div>
-                              <p>Contrary to popular belief,Lorem Ipsum is not simply random text. It has
-                                 roots in a
-                                 piece
-                                 of classical Latin literature from 45 BC,making it over 2000 years old.
+                              <p>
+                              Rani Construction embodies the essence of Tamil Nadu's progress. Their dedication to community projects positively impacts Trichy's growth.
                               </p>
                            </div>
                         </div>
