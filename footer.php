@@ -65,8 +65,8 @@
                                     <a href="tel:+919944114185" class="text-white">+91 99 44 11 4185</a>
                                  </li>
                                  <li class="pt-3">
-                                    <a href="mailto:info@peacefulthemes.com"><i class="fa fa-envelope"></i><span
-                                          class="text-white">info@peacefulthemes.com</span></a>
+                                    <a href="mailto:info@raniconstruction.com"><i class="fa fa-envelope"></i><span
+                                          class="text-white">info@raniconstruction.com</span></a>
                                  </li>
                               </ul>
                            </div>

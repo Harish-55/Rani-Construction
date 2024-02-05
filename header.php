@@ -71,8 +71,8 @@
                   </a>
                </li>
                <li>
-                  <a href="mailto:info@peacefulthemes.com"><i
-                        class="fa fa-envelope"></i><span>info@peacefulthemes.com</span></a>
+                  <a href="mailto:info@raniconstruction.com"><i
+                        class="fa fa-envelope"></i><span>info@raniconstruction.com</span></a>
                </li>
             </ul>
          </div>
@@ -116,8 +116,8 @@
                               </a>
                            </li>
                            <li>
-                              <a href="mailto:info@peacefulthemes.com"><i
-                                    class="fas fa-envelope"></i><span>info@peacefulthemes.com</span></a>
+                              <a href="mailto:info@raniconstruction.com"><i
+                                    class="fas fa-envelope"></i><span>info@raniconstruction.com</span></a>
                            </li>
                            <li>
                               <i class="far fa-clock"></i>

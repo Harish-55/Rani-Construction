@@ -68,16 +68,12 @@
                         <span>Mail us</span>
                      </h3>
                      <p class="icon-box-description">
-                        info@peacefulthemes.com<br>info2@peacefulthemes.com
+                        info@raniconstruction.com<br>info@raniconstruction.com
                      </p>
                   </div>
                </div>
             </div>
          </div>
-      </div>
-      <div class="backgrount-image-right d-md-inline-block wow animate__fadeInRight"
-         style="visibility: visible; animation-name: fadeInRight;">
-         <img class="img-fluid" src="images/bg/bg-01.png" alt="bg-img">
       </div>
    </section>
    <!-- Location -->

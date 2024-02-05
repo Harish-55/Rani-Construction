@@ -66,7 +66,7 @@
                   </a>
                </li>
                <li>
-                  <a href="mailto:info@peacefulthemes.com"><i class="fa fa-envelope"></i><span>info@peacefulthemes.com</span></a>
+                  <a href="mailto:info@raniconstruction.com"><i class="fa fa-envelope"></i><span>info@raniconstruction.com</span></a>
                </li>
             </ul>
          </div>
@@ -143,12 +143,12 @@
                <!--
                      -->
                <rs-layer id="slider-4-slide-10-layer-2" data-type="text" data-rsp_ch="on" data-xy="xo:50px,40px,30px,15px;y:m;yo:-17px,-13px,0,3px;" data-text="w:normal;s:92,72,56,42;l:92,72,60,48;fw:600;" data-frame_0="x:50,39,29,17;" data-frame_1="st:900;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:10;font-family:Jost, sans-serif;text-transform:capitalize;">
-               Your vision, our expertise,<br> always exceptional
+                  Your vision, our expertise,<br> always exceptional
                </rs-layer>
                <!--
                      -->
                <rs-layer id="slider-4-slide-10-layer-3" data-type="text" data-rsp_ch="on" data-xy="xo:50px,40px,30px,15px;y:m;yo:118px,102px,28px,37px;" data-text="w:normal;s:16,16,16,11;l:32,32,32,22;" data-dim="minh:0px,none,none,none;" data-vbility="t,t,f,f" data-frame_0="x:50,39,29,17;" data-frame_1="st:1200;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:11;font-family:Jost, sans-serif;">
-               Elevating projects with precision and innovation, we redefine standards—your vision, our expertise, consistently exceptional outcomes.
+                  Elevating projects with precision and innovation, we redefine standards—your vision, our expertise, consistently exceptional outcomes.
                </rs-layer>
                <!--
                      -->
@@ -157,7 +157,7 @@
                <!--
                      -->
                <rs-layer id="slider-4-slide-10-layer-5" data-type="text" data-rsp_ch="on" data-xy="xo:50px,40px,30px,15px;y:m;yo:-127px,-110px,-80px,-64px;" data-text="w:normal;s:16,16,16,18;l:30,32,26,24;fw:600;" data-padding="l:10,8,6,4;" data-border="bos:solid;boc:#ff631b;bow:0,0,0,2px;" data-frame_0="x:50,39,29,17;" data-frame_1="st:600;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:12;font-family:Jost, sans-serif;text-transform:capitalize;">
-               Redefining construction standards
+                  Redefining construction standards
                </rs-layer>
                <!--
                      -->
@@ -173,12 +173,12 @@
                <!--
                      -->
                <rs-layer id="slider-4-slide-10-layer-2" data-type="text" data-rsp_ch="on" data-xy="xo:50px,40px,30px,15px;y:m;yo:-17px,-13px,0,3px;" data-text="w:normal;s:92,72,56,42;l:92,72,60,48;fw:600;" data-frame_0="x:50,39,29,17;" data-frame_1="st:900;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:10;font-family:Jost, sans-serif;text-transform:capitalize;">
-               Rani Construction,<br> shaping the future
+                  Rani Construction,<br> shaping the future
                </rs-layer>
                <!--
                      -->
                <rs-layer id="slider-4-slide-10-layer-3" data-type="text" data-rsp_ch="on" data-xy="xo:50px,40px,30px,15px;y:m;yo:118px,102px,28px,37px;" data-text="w:normal;s:16,16,16,11;l:32,32,32,22;" data-dim="minh:0px,none,none,none;" data-vbility="t,t,f,f" data-frame_0="x:50,39,29,17;" data-frame_1="st:1200;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:11;font-family:Jost, sans-serif;">
-               Pioneering solutions, crafting enduring structures—Rani Construction, a visionary force shaping the future with innovation.
+                  Pioneering solutions, crafting enduring structures—Rani Construction, a visionary force shaping the future with innovation.
                </rs-layer>
                <!--
                      -->
@@ -187,7 +187,7 @@
                <!--
                      -->
                <rs-layer id="slider-4-slide-10-layer-5" data-type="text" data-rsp_ch="on" data-xy="xo:50px,40px,30px,15px;y:m;yo:-127px,-110px,-80px,-64px;" data-text="w:normal;s:16,16,16,18;l:30,32,26,24;fw:600;" data-padding="l:10,8,6,4;" data-border="bos:solid;boc:#ff631b;bow:0,0,0,2px;" data-frame_0="x:50,39,29,17;" data-frame_1="st:600;sp:1000;" data-frame_999="o:0;st:w;" style="z-index:12;font-family:Jost, sans-serif;text-transform:capitalize;">
-               Innovative solutions, timeless structures
+                  Innovative solutions, timeless structures
                </rs-layer>
                <!--
                      -->
@@ -242,7 +242,7 @@
                   <div class="pt-process-info">
                      <h3 class="pt-process-title text-white">Mission</h3>
                      <p class="pt-process-description text-white">
-                     Empower through transformative construction solutions
+                        Empower through transformative construction solutions
                      </p>
                   </div>
                   <div class="pt-btn-container">
@@ -266,7 +266,7 @@
                   <div class="pt-process-info">
                      <h3 class="pt-process-title text-white">Vision</h3>
                      <p class="pt-process-description text-white">
-                     Lead in shaping future architectural landscapes
+                        Lead in shaping future architectural landscapes
                      </p>
                   </div>
                   <div class="pt-btn-container">
@@ -292,7 +292,7 @@
                   <div class="pt-process-info">
                      <h3 class="pt-process-title text-white">Values</h3>
                      <p class="pt-process-description text-white">
-                     Integrity, Innovation, Excellence—Our Guiding Principles
+                        Integrity, Innovation, Excellence—Our Guiding Principles
                      </p>
                   </div>
                   <div class="pt-btn-container">
@@ -709,7 +709,7 @@
                                     <a href="tel:+919944114185" class="text-white">+91 99 44 11 4185</a>
                                  </li>
                                  <li class="pt-3">
-                                    <a href="mailto:info@peacefulthemes.com"><i class="fa fa-envelope"></i><span class="text-white">info@peacefulthemes.com</span></a>
+                                    <a href="mailto:info@raniconstruction.com"><i class="fa fa-envelope"></i><span class="text-white">info@raniconstruction.com</span></a>
                                  </li>
                               </ul>
                            </div>
