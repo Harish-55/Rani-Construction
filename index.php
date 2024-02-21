@@ -459,7 +459,7 @@
 <!-- accordian -->
 
 <!-- Client -->
-<div class="client pt-bg-light py-4">
+<!-- <div class="client pt-bg-light py-4">
    <div class="container-fluid">
       <div class="row">
          <div class="col-sm-12">
@@ -516,7 +516,7 @@
          </div>
       </div>
    </div>
-</div>
+</div> -->
 <!-- Client -->
 
 <?php include('footer.php') ?>
