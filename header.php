@@ -9,7 +9,7 @@
    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
    <title>Rani Construction</title>
    <!-- Favicon -->
-   <link rel="shortcut icon" href="images/favicon.ico" />
+   <link rel="shortcut icon" href="images/favicon.png" />
    <!-- CSS bootstrap-->
    <link rel="stylesheet" href="css/bootstrap/bootstrap.min.css" />
    <!-- REVOLUTION STYLE SHEETS -->
@@ -19,19 +19,19 @@
    <!--  Responsive -->
    <link rel="stylesheet" href="css/responsive.css" />
    <style>
-      .pt-button{
-         background-color: #ff631b;
+      .pt-button {
+         background-color: #002156;
       }
    </style>
 </head>
 
 <body>
    <!-- Loader -->
-   <div id="pt-loading">
+   <!-- <div id="pt-loading">
       <div id="pt-loading-center">
-         <img src="images/loder.gif" alt="loading">
+         <img src="images/logo.png" alt="loading">
       </div>
-   </div>
+   </div> -->
    <!-- Loader -->
 
    <!-- Sidebar -->
@@ -44,8 +44,8 @@
       </div>
       <div class="pt-sidebar-block">
          <div class="pt-sidebar-header">
-            <img src="images/logo.png" class="pt-sidebar-logo" alt="architeck-sidebar-logo">
-            <p>It is a long established fact that a reader of a page when looking at its layout. </p>
+            <img src="images/logo.png" style="height: 90px;" class="pt-sidebar-logo" alt="architeck-sidebar-logo">
+            <p style="font-size: 22px;">Your Dream is our Target!</p>
          </div>
          <div class="pt-sidebar-category">
             <h5>Categories</h5>
@@ -71,17 +71,17 @@
                   </a>
                </li>
                <li>
-                  <a href="mailto:info@raniconstruction.com"><i
-                        class="fa fa-envelope"></i><span>info@raniconstruction.com</span></a>
+                  <a href="mailto:raniconstruction.ah@gmail.com"><i class="fa fa-envelope"></i><span>raniconstruction.ah@gmail.com</span></a>
                </li>
             </ul>
          </div>
          <div class="pt-sidebar-social">
             <ul>
-               <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-               <li><a href="#"><i class="fab fa-github"></i></a></li>
-               <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
-               <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+               <li><a href="https://www.facebook.com/rani.construction" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+               <li><a href="https://www.instagram.com/rani_construction/" target="_blank"><i class="fab fa-instagram"></i></a></li>
+               <!-- <li><a href="https://www.threads.net/@rani_construction" target="_blank"><i class="fab fa-threads"></i></a></li> -->
+               <li><a href="https://www.linkedin.com/company/rani-construction/" target="_blank"><i class="fab fa-linkedin"></i></a></li>
+               <li><a href="https://www.youtube.com/@rani-construction" target="_blank"><i class="fab fa-youtube"></i></a></li>
             </ul>
          </div>
       </div>
@@ -93,7 +93,7 @@
       <div class="row no-gutters">
          <div class="col-lg-2 col-md-4">
             <a class="navbar-brand" href="#">
-               <img class="img-fluid logo" src="images/logo-white.png" alt="architeck">
+               <img class="img-fluid logo" src="images/logo.png" alt="architeck">
             </a>
          </div>
          <div class="col-lg-10 col-md-8">
@@ -102,8 +102,11 @@
                   <div class="col-lg-3 col-xl-4">
                      <div class="pt-header-social ">
                         <ul>
-                           <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                           <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                           <li><a href="https://www.facebook.com/rani.construction" target="_blank" style="color: white;"><i class="fab fa-facebook-f"></i></a></li>
+                           <li><a href="https://www.instagram.com/rani_construction/" target="_blank" style="color: white;"><i class="fab fa-instagram"></i></a></li>
+                           <!-- <li><a href="https://www.threads.net/@rani_construction" target="_blank"><i class="fab fa-threads"></i></a></li> -->
+                           <li><a href="https://www.linkedin.com/company/rani-construction/" target="_blank" style="color: white;"><i class="fab fa-linkedin"></i></a></li>
+                           <li><a href="https://www.youtube.com/@rani-construction" target="_blank" style="color: white;"><i class="fab fa-youtube"></i></a></li>
                         </ul>
                      </div>
                   </div>
@@ -111,17 +114,16 @@
                      <div class="pt-header-contact text-right">
                         <ul>
                            <li>
-                              <a href="tel:+919944114185"><i class="fas fa-phone"></i>
-                                 <span>+919944114185</span>
-                              </a>
+                              <i class="fas fa-phone"></i>
+                              <a href="tel:+919944114185" style="color: white;">+919944114185</a>
                            </li>
                            <li>
-                              <a href="mailto:info@raniconstruction.com"><i
-                                    class="fas fa-envelope"></i><span>info@raniconstruction.com</span></a>
+                              <i class="fas fa-envelope"></i>
+                              <a href="mailto:raniconstruction.ah@gmail.com" style="color: white;">raniconstruction.ah@gmail.com</a>
                            </li>
                            <li>
                               <i class="far fa-clock"></i>
-                              <a href="#">Mon - Sat 8:00 - 7:30, Sunday - CLOSED</a>
+                              Mon - Sat : 9:00am - 5:00pm, Sun - Closed
                            </li>
                         </ul>
                      </div>
@@ -132,9 +134,7 @@
                <div class="row no-gutters">
                   <div class="col-lg-12">
                      <nav class="navbar navbar-expand-lg navbar-light">
-                        <button class="navbar-toggler" type="button" data-toggle="collapse"
-                           data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
-                           aria-expanded="false" aria-label="Toggle navigation">
+                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                            <i class="fas fa-bars"></i>
                         </button>
                         <div class="collapse navbar-collapse" id="navbarSupportedContent">

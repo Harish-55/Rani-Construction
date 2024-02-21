@@ -24,7 +24,7 @@
       <div class="container">
          <div class="row d-flex align-items-center">
             <div class="col-xl-6  col-12 text-center">
-               <div id="44c61" class="content__image-wrap content__image-wrap--half" data-color="#FF631B"
+               <div id="44c61" class="content__image-wrap content__image-wrap--half" data-color="#000000"
                   data-direction="lr">
                   <img class="img-fluid" src="images/about/1.jpg" alt="demo-img">
                </div>
@@ -147,7 +147,7 @@
                </ul>
             </div>
             <div class="col-xl-6  col-12  d-flex align-items-center text-center">
-               <div id="44c62" class="content__image-wrap content__image-wrap--half" data-color="#FF631B"
+               <div id="44c62" class="content__image-wrap content__image-wrap--half" data-color="#000000"
                   data-direction="rl">
                   <img class="img-fluid" src="images/about/demo-7.jpg" alt="demo-img">
                </div>

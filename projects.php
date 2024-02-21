@@ -1,21 +1,8 @@
 <?php include('header.php') ?>
-<style>
-   body {
-      text-align: center;
-   }
-
-   .image-container img {
-      transition: transform 0.3s ease-in-out;
-   }
-
-   .image-container img:hover {
-      transform: scale(1.2);
-   }
-</style>
 
 <!-- Banner -->
 <section class="pt-breadcrumb">
-   <div class="pt-bg-overley pt-opacity4" style="background-image: url('images/bg/01.jpg');"></div>
+   <div class="pt-bg-overley pt-opacity4" style="background-image: url('images/bg/3.png');"></div>
    <div class="container">
       <div class="row">
          <div class="col-sm-12">
