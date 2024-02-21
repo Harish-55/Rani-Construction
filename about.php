@@ -68,7 +68,7 @@
       </div>
 
       <div class="backgrount-image-right d-md-inline-block wow animate__fadeInRight">
-         <img class="img-fluid" src="images/bg/bg-01.jpg" alt="bg-img">
+         <img class="img-fluid" src="images/bg/bg-01.png" alt="bg-img">
       </div>
    </section>
    <!-- About us-->
@@ -89,7 +89,7 @@
                </div>
                <div class="pt-popup-video-block">
                   <div class="pt-video-icon">
-                     <a href="https://www.youtube.com/watch?v=XHOmBV4js_E" class="pt-video popup-youtube">
+                     <a href="javascript:void(0)">
                         <i aria-hidden="true" class="ion ion-play"></i></a>
                   </div>
                </div>
